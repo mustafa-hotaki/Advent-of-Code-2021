@@ -1,6 +1,6 @@
 # Advent-of-Code-2021
 
-Received 8 stars so far.
+Received 10 stars so far.
 
 The notebooks are best viewed on Google Colab, as GitHub does not render LaTeX in notebooks very well.
 
