@@ -13,4 +13,4 @@ The notebooks are best viewed on Google Colab, as GitHub does not render LaTeX i
 [Day 7: The Treachery of Whales](https://github.com/mustafa-hotaki/Advent-of-Code-2021/blob/main/Day7/Day7.ipynb) \
 [Day 8: Seven Segment Search](https://github.com/mustafa-hotaki/Advent-of-Code-2021/blob/main/Day8/Day8.ipynb) \
 [Day 9: Smoke Basin](https://github.com/mustafa-hotaki/Advent-of-Code-2021/blob/main/Day9/Day9.ipynb) \
-[Day 10: Syntax Scoring](https://github.com/mustafa-hotaki/Advent-of-Code-2021/blob/main/Day10/Day10/.ipynb)
+[Day 10: Syntax Scoring](https://github.com/mustafa-hotaki/Advent-of-Code-2021/blob/main/Day10/Day10.ipynb)
