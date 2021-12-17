@@ -113,3 +113,7 @@ def Get_Neighbor_Coordinates(i, j):
     left = (i, j -1)
     right = (i, j + 1)
     return up, down, left, right
+
+def prod(iterable):
+    from functools import reduce
+    return reduce(lambda x, y: x * y, iterable)

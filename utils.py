@@ -100,7 +100,7 @@ class Graph:
 #     'A': [('B', 1), ('C', 3), ('D', 7)],
 #     'B': [('D', 5)],
 #     'C': [('D', 12)]
-# }W
+# }
 # graph1 = Graph(adjac_lis)
 # graph1.a_star_algorithm('A', 'D')
 
@@ -114,11 +114,6 @@ def Get_Neighbor_Coordinates(i, j):
     right = (i, j + 1)
     return up, down, left, right
 
-
-def Of_Bucket(buckets):
-    for bucket_item in buckets[0]:
-        if len(buckets) > 1 :
-            for result in of_bucket(buckets[1:]):
-                yield [bucket_item] + result
-        else:
-            yield [bucket_item]
+def prod(iterable):
+    from functools import reduce
+    return reduce(lambda x, y: x * y, iterable)
